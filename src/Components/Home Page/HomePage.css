@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(17, 17, 51);
+}
+
+h1{
+    color: orange;
+    text-align: center;
+}
+
+.Calculator{
+    margin: auto;
+    display: block;
+    margin-top: 2em;
+    width: 40%;
+    height: 460px;
+    border: solid 1px orange;
+    border-radius: 0.8em;
+    box-shadow: 5px 10px 10px rgba(10, 10, 10, 0.884);
+    padding-bottom: 20em;
+}
+
+input[type="button"] {
+    padding: 20px 40px;
+    background-color: orange;
+    color: rgb(17, 17, 51);
+    font-size: 1.4em;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    margin: 1.2em;
+}
+
+input[type="text"] {
+    padding: 20px 5px;
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    border: 2px solid rgb(17, 17, 51);
+}
+
+p{
+    padding: 20px 5px;
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    border: 2px solid rgb(17, 17, 51);
+    margin: 0;
+    color: orange;
+}
