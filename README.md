@@ -17,7 +17,8 @@ In this project I have used these technologies :
 To run this project you can simply type in the terminal : 
 
 ```
-npm start
+npm start - client
+nodemon server.js - server
 ```
 
 ## Preview
