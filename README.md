@@ -1,4 +1,4 @@
-# Simple Calculator App with Rect
+# Simple Calculator App with React
 
 ## Main Goal
 
