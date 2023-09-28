@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+# E-shopping App with Rect
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Main Goal
 
-## Available Scripts
+#### The main goal of this project was to build a simple calculator which will allow users to do basic arithematic operations.
+## TECHNOLOGIES: 
 
-In the project directory, you can run:
+In this project I have used these technologies : 
++ React js
++ CSS
 
-### `npm start`
+## Usage 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+To run this project you can simply type in the terminal : 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+```
+npm start
+```
 
-### `npm test`
+## Preview
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
++ Home
 
-### `npm run build`
+![image](https://github.com/NavyaSinha1106/mern-calculator-app/assets/105153638/ff901848-0ed4-4727-82b1-6e8cc98dfde1)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
++ Add Operation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![image](https://github.com/NavyaSinha1106/mern-calculator-app/assets/105153638/e51c37f6-9e04-4cb6-8f4d-7fbfad806ed5)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
++ Minus Operation
 
-### `npm run eject`
+![image](https://github.com/NavyaSinha1106/mern-calculator-app/assets/105153638/f321cffe-f1e3-4af6-9220-7c31dad04172)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
++ Multiply Operation
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![image](https://github.com/NavyaSinha1106/mern-calculator-app/assets/105153638/d5264123-2cf4-420c-bd8b-7f9b06a4f86e)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
++ Divide Operation
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![image](https://github.com/NavyaSinha1106/mern-calculator-app/assets/105153638/77d0f1a3-48a6-4b04-817f-3f1c5e2a6894)
 
-## Learn More
++ Divide by 0 Operation
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![image](https://github.com/NavyaSinha1106/mern-calculator-app/assets/105153638/fe84220f-1c44-4bc5-9be7-6dd39e894a8d)
