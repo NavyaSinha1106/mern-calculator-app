@@ -1,4 +1,4 @@
-# E-shopping App with Rect
+# Simple Calculator App with Rect
 
 ## Main Goal
 
@@ -7,6 +7,9 @@
 
 In this project I have used these technologies : 
 + React js
++ Node.js
++ Express.js
++ MongoDB
 + CSS
 
 ## Usage 
